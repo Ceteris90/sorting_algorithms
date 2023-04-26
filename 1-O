@@ -1,0 +1,7 @@
+Best case: O(n), where n is the number of elements in the list. This occurs when the input list is already sorted, and the algorithm makes only one pass over the list without performing any swaps.
+
+Average case: O(n^2), where n is the number of elements in the list. This occurs when the input list is in random order, and the algorithm has to make multiple passes over the list, swapping adjacent nodes to sort them.
+
+Worst case: O(n^2), where n is the number of elements in the list. This occurs when the input list is in reverse order, and the algorithm has to make multiple passes over the list, swapping adjacent nodes to sort them.
+
+
