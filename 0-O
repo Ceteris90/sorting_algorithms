@@ -1,8 +1,3 @@
-Best case: O(n), where n is the number of elements in the array. This occurs when the input array is already sorted, and the algorithm make
-only one pass over the array without performing any swaps.
-    
-Average case: O(n^2), where n is the number of elements in the array.This occurs when the input array is in random order, and the algorithm has to make multiple passes over the array, swapping adjacent element
-to sort them.
-    
-Worst case: O(n^2), where n is the number of elements in the array. This occurs when the input array is in reverse order, and the algorithm has to make multiple passes over the array, swapping adjacent element
-to sort them.
+O(n)
+O(n^2)
+O(n^2)
