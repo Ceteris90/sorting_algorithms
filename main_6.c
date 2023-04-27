@@ -9,6 +9,6 @@
  */
 int main(void)
 {
-	bubble_sort(NULL, 0);
+	insertion_sort_list(NULL);
 	return (0);
 }
